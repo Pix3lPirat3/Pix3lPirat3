@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Pix3lPirat3
-- 👀 I’m interested in Programming (obviously..?)
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on anything
-- 📫 Contact via TODO
